@@ -1,0 +1,100 @@
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/15001181_S1.bam \
+      O=~/Desktop/output_tst_A_15001181_S1.txt \
+      CREATE_INDEX=true
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/15010800_S1.bam \
+      O=~/Desktop/output_tst_A_15010800_S1.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/15016513_S5.bam \
+      O=~/Desktop/output_tst_A_15016513_S5.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/15018040_S4.bam \
+      O=~/Desktop/output_tst_A_15018040_S4.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/15020056_S2.bam \
+      O=~/Desktop/output_tst_A_15020056_S2.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/15027722_S2.bam \
+      O=~/Desktop/output_tst_A_15027722_S2.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/15028422_S6.bam \
+      O=~/Desktop/output_tst_A_15028422_S6.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/15038519_S3.bam \
+      O=~/Desktop/output_tst_A_15038519_S3.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/15039121_S7.bam \
+      O=~/Desktop/output_tst_A_15039121_S7.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/15039718_S8.bam \
+      O=~/Desktop/output_tst_A_15039718_S8.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/15051669_S1.bam \
+      O=~/Desktop/output_tst_A_15051669_S1.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/15061857_S2.bam \
+      O=~/Desktop/output_tst_A_15061857_S2.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/16009521_S9.bam \
+      O=~/Desktop/output_tst_A_16009521_S9.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/16012453_S3.bam \
+      O=~/Desktop/output_tst_A_16012453_S3.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/16014994_S8.bam \
+      O=~/Desktop/output_tst_A_16014994_S8.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/16017280_S3.bam \
+      O=~/Desktop/output_tst_A_16017280_S3.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/16017282_S4.bam \
+      O=~/Desktop/output_tst_A_16017282_S4.txt
+
+java -jar ~/Bioinformatics/Tools/picard-tools-2.5.0/picard.jar CollectAlignmentSummaryMetrics \
+      R=~/NGS_Data/reference/hg19_tst15/hg19_tst15.fasta \
+      I=~/NGS_Data/BAM/bam_tst/miseq_reporter/mixA/16017771_S5.bam \
+      O=~/Desktop/output_tst_A_16017771_S5.txt
+
+
+
+
+
+java -jar ~/Bioinformatics/Tools/GenomeAnalysisTK.jar \
+-T GCContentByInterval \
+-R ~/NGS_Data/reference/hg19_surecall/hg19.fasta \
+-o ~/Desktop/GC_Halo.txt \
+-L /home/benflies/NGS_Data/00100-1407755742_Regions.bed
